@@ -32,7 +32,7 @@ Currently learning <b>React.js</b> and improving my skills step by step 🚀
 
 ### 📂 My Projects
 🔹 Check my repositories here:  
-👉 https://github.com/mohash2798
+👉 [https://github.com/mohash2798](https://github.com/mohash2798?tab=repositories)
 
 ---
 
