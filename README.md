@@ -38,7 +38,7 @@ Currently learning <b>React.js</b> and improving my skills step by step 🚀
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-ashraf-3864bb395/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mohash2798" target="_blank">
